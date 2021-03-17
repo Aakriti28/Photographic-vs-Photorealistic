@@ -5,3 +5,5 @@
 3. [How Realistic is Photorealistic?](https://www.researchgate.net/publication/3319160_How_Realistic_is_Photorealistic)
 4. [Identifying materials of photographic images and photorealistic computer generated graphics based on deep CNNs](https://www.researchgate.net/publication/325699635_Identifying_materials_of_photographic_images_and_photorealistic_computer_generated_graphics_based_on_deep_CNNs)
 5. [Distinguishing computer graphics from natural images using convolution neural networks](https://ieeexplore.ieee.org/abstract/document/8267647?casa_token=9VkzmQUJDMoAAAAA:TqrVEZnCavB1Z9ZyoSo-m0wnu9wA6Q0AKvVg9lsAta2ZVkv5zQz8y0SAg0efg9igO-x0y04QCTPs)
+6. [Physics-motivated features for distinguishing photographic images and computer graphics](https://dl.acm.org/doi/abs/10.1145/1101149.1101192?casa_token=Z1zCzcMSA5EAAAAA:wFYo-MjN_ESm7uEH86g14f_TPz6B0fXQoj-pTdKr0GXX1KMQoIyC4jvhKWRB15lVQb8U5WBeCIcH5bA)
+7. [Identification of Deep Network Generated Images Using Disparities in Color Components](https://arxiv.org/abs/1808.07276)
