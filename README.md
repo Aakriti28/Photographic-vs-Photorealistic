@@ -2,7 +2,7 @@
 
 This repository consists of code to distinguish between photographic images, photorealistic computer graphics and GAN generated images. Two different approaches were experimented with, one trained an SVM classifier on features extracted from wavelet decomposition of RGB color bands and other trained a deep convolutional neural network on high pass filtered images. Accuracy achieved was more than 95% for all 3 classes in both the methods.
 
-The photographic images and computer graphics were obtained from [Columbia Photographic Images and Photorealistic Computer Graphics Dataset](https://www.ee.columbia.edu/ln/dvmm/downloads/PIM_PRCG_dataset/) and the GAN generated ia=mages from taken from results of [Nvidia StyleGAN](https://github.com/NVlabs/stylegan).
+The photographic images and computer graphics were obtained from [Columbia Photographic Images and Photorealistic Computer Graphics Dataset](https://www.ee.columbia.edu/ln/dvmm/downloads/PIM_PRCG_dataset/) and the GAN generated images from taken from results of [Nvidia StyleGAN](https://github.com/NVlabs/stylegan).
 
 Here is the [link](https://drive.google.com/drive/folders/1PaYpCYJBpkkLKvf6Cu1Dqjxd_T97lCSl?usp=sharing) to the complete dataset of images used in our experiment.
 
