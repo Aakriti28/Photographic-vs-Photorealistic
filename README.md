@@ -1,6 +1,7 @@
 # Image Forensics
 
 CS 754 Advanced Image Processing Course Project
+
 Guide: Prof. Ajit Rajwade
 
 This repository consists of code to distinguish between photographic images, photorealistic computer graphics and GAN generated images. Two different approaches were experimented with, one trained an SVM classifier on features extracted from wavelet decomposition of RGB color bands and other trained a deep convolutional neural networks like CaffeNet and ResNet-50 on high pass filtered images. Accuracy achieved was more than 95% for all 3 classes in both the methods.
