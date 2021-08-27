@@ -1,6 +1,9 @@
 # Image Forensics
 
-This repository consists of code to distinguish between photographic images, photorealistic computer graphics and GAN generated images. Two different approaches were experimented with, one trained an SVM classifier on features extracted from wavelet decomposition of RGB color bands and other trained a deep convolutional neural network on high pass filtered images. Accuracy achieved was more than 95% for all 3 classes in both the methods.
+CS 754 Advanced Image Processing Course Project
+Guide: Prof. Ajit Rajwade
+
+This repository consists of code to distinguish between photographic images, photorealistic computer graphics and GAN generated images. Two different approaches were experimented with, one trained an SVM classifier on features extracted from wavelet decomposition of RGB color bands and other trained a deep convolutional neural networks like CaffeNet and ResNet-50 on high pass filtered images. Accuracy achieved was more than 95% for all 3 classes in both the methods.
 
 The photographic images and computer graphics were obtained from [Columbia Photographic Images and Photorealistic Computer Graphics Dataset](https://www.ee.columbia.edu/ln/dvmm/downloads/PIM_PRCG_dataset/) and the GAN generated images from taken from results of [Nvidia StyleGAN](https://github.com/NVlabs/stylegan).
 
