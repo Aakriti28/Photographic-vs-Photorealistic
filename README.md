@@ -4,14 +4,17 @@ CS 754 Advanced Image Processing Course Project
 
 Guide: Prof. Ajit Rajwade
 
+<hr>
+
 This repository consists of code to distinguish between photographic images, photorealistic computer graphics and GAN generated images. Two different approaches were experimented with, one trained an SVM classifier on features extracted from wavelet decomposition of RGB color bands and other trained a deep convolutional neural networks like CaffeNet and ResNet-50 on high pass filtered images. Accuracy achieved was more than 95% for all 3 classes in both the methods.
 
-The detailed results of our experiments our outlined in our [project report](https://github.com/Aakriti28/Photographic-vs-Photorealistic/blob/main/AIP_project_Report.pdf)
+The detailed results of our experiments our outlined in our [**project report**](https://github.com/Aakriti28/Photographic-vs-Photorealistic/blob/main/AIP_project_Report.pdf).
 
 The photographic images and computer graphics were obtained from [Columbia Photographic Images and Photorealistic Computer Graphics Dataset](https://www.ee.columbia.edu/ln/dvmm/downloads/PIM_PRCG_dataset/) and the GAN generated images from taken from results of [Nvidia StyleGAN](https://github.com/NVlabs/stylegan).
 
 Here is the [link](https://drive.google.com/drive/folders/1PaYpCYJBpkkLKvf6Cu1Dqjxd_T97lCSl?usp=sharing) to the complete dataset of images used in our experiment.
 
+<hr>
 ### References 
 
 1. [Identifying Materials of Photographic Images and Photorealistic Computer Generated Graphics Based on Deep CNNs](https://www.researchgate.net/profile/Qi-Cui-6/publication/325699635_Identifying_materials_of_photographic_images_and_photorealistic_computer_generated_graphics_based_on_deep_CNNs/links/5cac14d392851c64bd59eb75/Identifying-materials-of-photographic-images-and-photorealistic-computer-generated-graphics-based-on-deep-CNNs.pdf)
